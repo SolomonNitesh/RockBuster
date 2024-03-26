@@ -25,4 +25,4 @@ do is load the data set into the PostgreSQL database.
 # Visualization
 The visualizations were created using Tableau 
 
-Link: https://public.tableau.com/app/profile/solomon.nitesh.devaneyan/vizzes
+https://public.tableau.com/app/profile/solomon.nitesh.devaneyan/vizzes
