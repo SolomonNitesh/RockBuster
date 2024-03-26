@@ -20,7 +20,7 @@ In this Achievement, you’ll be using a data set that contains information abou
 film inventory, customers, and payments, among other things. The first thing you’ll need to
 do is load the data set into the PostgreSQL database.
 
-[Download the Rockbuster data set]
+Rockbuster Dataset
 
 # Visualization
 The visualizations were created using Tableau 
